@@ -1,0 +1,4 @@
+.carte-container{
+    display: grid;
+    height: fit-content;
+}
